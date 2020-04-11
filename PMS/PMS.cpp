@@ -5,7 +5,7 @@
 #include<fstream>
 using namespace std;
                                       //Made by: Shashwat Singh
-                          //Section:K19PT    Rollno.:32      Reg Number: 11912314
+                         
 
             
 
